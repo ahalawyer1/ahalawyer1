@@ -1,10 +1,21 @@
-![图片](https://github.com/ahalawyer1/ahalawyer1/assets/170216787/92817888-e9e9-4d97-a907-28902b96a9e1)![](https://github.com/ahalawyer1/ahalawyer1/assets/170216787/eee39bc3-b106-4dc4-89b8-d3597b8acb19)
+
 ![](https://github.com/ahalawyer1/ahalawyer1/assets/170216787/3b9ea520-a53f-4f18-b553-bec89f2be612)
 ![](https://github.com/ahalawyer1/ahalawyer1/assets/170216787/96a75583-7311-4a3f-80fd-8c949fbf069e)
 ![](https://github.com/ahalawyer1/ahalawyer1/assets/170216787/833291cc-db69-4de4-b3c3-5f89e1678049)
 > 遇见更好的自己...
 
 # Exam
+
+故天子不处全，不处极，不处盈。全则必缺，极则必反，盈则必虧。先王知物之不可两大，故择务，当而处之。
+--[《吕氏春秋·不苟论·博志》](https://www.dedao.cn/course/article?id=5Mr9mzb36pP4JL5GDgXkWqB2EYNegL)
+
+「以道佐人主者，不以兵强天下。其事好还。师之所处，荆棘生焉。大军之后，必有凶年。善者果而已，不敢以取强。果而勿矜，果而勿伐，果而勿骄。果而不得已，果而勿强。物壮则老，是谓不道，不道早已。」
+--[《道德经·第三十章》](https://www.dedao.cn/course/article?id=5Mr9mzb36pP4JL5GDgXkWqB2EYNegL)
+
+极则必反也好，物壮则老也好，都是说做事要尊重客观现实，不能任性，不能走极端。其实这说的和中庸之道，和「过犹不及」是一样的意思，说的是当下的操作。
+
+回归平均的意思是任何事物如果表现得特别出众，那其中一定有很好的运气的因素，而好运气都是概率意义上的罕见事件，所以我们可以预期，下一次大概率不会有这么好的运气，所以下次的成绩大概率不会这么好。
+
 
 ## 2024年学霸笔记-理论
 
@@ -2165,9 +2176,8 @@
 
 # Record
 
-![Uploading 图片.png…]()
-
-> To Have Or To Be? 弗洛姆在《占有还是存在》中剖析了现代人的精神困境根源于占有型生活模式，并提出以存在型生活模式来获得真正的满足和自由。
+![](https://github.com/ahalawyer1/ahalawyer1/assets/170216787/0c1b29f9-00d9-40b3-a14e-f032381b7e01)
+> [To Have Or To Be?](https://book.douban.com/subject/35574976/) 弗洛姆在《占有还是存在》中剖析了现代人的精神困境根源于占有型生活模式，并提出以存在型生活模式来获得真正的满足和自由。
 
 ## [占有型和存在型生活模式的人分别是如何做选择的]()
 

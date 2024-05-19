@@ -2165,7 +2165,8 @@
 
 # Record
 
-![](https://github.com/ahalawyer1/ahalawyer1/assets/170216787/9ddd2fe2-dcb0-455e-a9e6-6e34444726ee)
+![Uploading 图片.png…]()
+
 > To Have Or To Be? 弗洛姆在《占有还是存在》中剖析了现代人的精神困境根源于占有型生活模式，并提出以存在型生活模式来获得真正的满足和自由。
 
 ## [占有型和存在型生活模式的人分别是如何做选择的]()

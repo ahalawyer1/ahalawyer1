@@ -2256,10 +2256,13 @@
 | 年份  | 月份 | 周数 | 日数 |
 | ----- |  :------:  |  :------:  | :------:   |
 | 2024     | 5       | 3         | 19         |
+| 2024     | 5       | 4         | 25         |
 
 # Reference
 
 1. [厚大法考](http://www.houdask.com/site/hd/index.html)
-2. [裁判文书网](https://wenshu.court.gov.cn/)
+2. [众合法考](https://zhongheschool.com/fakao/)
+3. [觉晓法考](https://www.juexiaotime.com/home)
+4. [裁判文书网](https://wenshu.court.gov.cn/)
 
 ![](https://repobeats.axiom.co/api/embed/d91b9f89f54ea652c39a2195fd1bf049b69a5595.svg "Repobeats analytics image")

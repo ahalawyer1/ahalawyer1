@@ -6,7 +6,153 @@
 
 # Exam
 
-## 2024年学霸笔记-理论
+## 觉晓法考
+
+### 考点
+
+[刑法修正案（十二）修正前后对比表.pdf](https://github.com/ahalawyer1/ahalawyer1/files/15446132/default.pdf)
+
+
+[新法新增考点.pdf](https://github.com/ahalawyer1/ahalawyer1/files/15446131/default.pdf)
+
+
+[觉晓法考各学科考点表.pdf](https://github.com/ahalawyer1/ahalawyer1/files/15446130/default.pdf)
+
+
+[根据刑法修正案（十二）勘误讲义.pdf](https://github.com/ahalawyer1/ahalawyer1/files/15446129/default.pdf)
+
+
+[根据《合同编通则司法解释》的增补.pdf](https://github.com/ahalawyer1/ahalawyer1/files/15446128/default.pdf)
+
+
+[《合同编通则司法解释》对比表.pdf](https://github.com/ahalawyer1/ahalawyer1/files/15446127/default.pdf)
+
+
+### 方法论
+
+### 学习计划
+
+[2024 年行政法科目学习计划.pdf](https://github.com/ahalawyer1/ahalawyer1/files/15446102/2024.pdf)
+
+
+[2024 年刑诉科目学习计划.pdf](https://github.com/ahalawyer1/ahalawyer1/files/15446101/2024.pdf)
+
+
+[2024 年商法科目学习计划.pdf](https://github.com/ahalawyer1/ahalawyer1/files/15446100/2024.pdf)
+
+
+[2024 年三国法科目学习计划.pdf](https://github.com/ahalawyer1/ahalawyer1/files/15446099/2024.pdf)
+
+
+[2024 年民诉科目学习计划.pdf](https://github.com/ahalawyer1/ahalawyer1/files/15446098/2024.pdf)
+
+
+[2024 年民法科目学习计划.pdf](https://github.com/ahalawyer1/ahalawyer1/files/15446097/2024.pdf)
+
+
+[2024 年理论法科目学习计划.pdf](https://github.com/ahalawyer1/ahalawyer1/files/15446096/2024.pdf)
+
+
+[2024 年经知环劳科目学习计划苏星河版本.pdf](https://github.com/ahalawyer1/ahalawyer1/files/15446095/2024.pdf)
+
+
+[2024 年经知环劳科目学习计划.pdf](https://github.com/ahalawyer1/ahalawyer1/files/15446094/2024.pdf)
+
+
+### 学习资料
+
+#### 主观案例天天练
+
+[主观案例天天练 刑法 陈橙（讲义）.pdf](https://github.com/ahalawyer1/ahalawyer1/files/15446113/default.pdf)
+
+
+[主观案例天天练 民法 李妍（19-31讲义）.pdf](https://github.com/ahalawyer1/ahalawyer1/files/15446110/19-31.pdf)
+
+
+[主观案例天天练 民法 李妍（9-18讲义）.pdf](https://github.com/ahalawyer1/ahalawyer1/files/15446109/9-18.pdf)
+
+
+[主观案例天天练 民法 李妍（19-31解析）.pdf](https://github.com/ahalawyer1/ahalawyer1/files/15446108/19-31.pdf)
+
+
+[主观案例天天练 刑法 陈橙（解析）.pdf](https://github.com/ahalawyer1/ahalawyer1/files/15446107/default.pdf)
+
+
+[主观案例天天练 民法 李妍（9-18解析）.pdf](https://github.com/ahalawyer1/ahalawyer1/files/15446106/9-18.pdf)
+
+
+[案例天天练 刑法 卢杨（知识点+题目+解析）.pdf](https://github.com/ahalawyer1/ahalawyer1/files/15446126/%2B.%2B.pdf)
+
+
+[案例天天练 刑法 卢杨（知识点+题目）.pdf](https://github.com/ahalawyer1/ahalawyer1/files/15446125/%2B.pdf)
+
+
+#### 客观题每日学练背
+
+
+[客观题每日学练背 刑法 陈橙（题目）.pdf](https://github.com/ahalawyer1/ahalawyer1/files/15446115/default.pdf)
+
+
+[客观题每日学练背 民法 崔红玉（知识点+题目）.pdf](https://github.com/ahalawyer1/ahalawyer1/files/15446114/%2B.pdf)
+
+
+[客观题每日学练背 刑法 卢杨（知识点+题目）.pdf](https://github.com/ahalawyer1/ahalawyer1/files/15446124/%2B.pdf)
+
+
+[客观题每日学练背 刑法 卢杨（题目+解析）.pdf](https://github.com/ahalawyer1/ahalawyer1/files/15446122/%2B.pdf)
+
+
+[客观题每日学练背 行政法 张燕（解析）.pdf](https://github.com/ahalawyer1/ahalawyer1/files/15446121/default.pdf)
+
+
+[客观题每日学练背 行政法 才丽媛（讲义）.pdf](https://github.com/ahalawyer1/ahalawyer1/files/15446120/default.pdf)
+
+
+[客观题每日学练背 行政法 才丽媛（解析）.pdf](https://github.com/ahalawyer1/ahalawyer1/files/15446118/default.pdf)
+
+
+[客观题每日学练背 行政法 张燕（讲义）.pdf](https://github.com/ahalawyer1/ahalawyer1/files/15446117/default.pdf)
+
+#### 其他资料
+
+[刑诉主观题带写方法论讲义.pdf](https://github.com/ahalawyer1/ahalawyer1/files/15446144/default.pdf)
+
+
+[2023年行政法案例带写.pdf](https://github.com/ahalawyer1/ahalawyer1/files/15446143/2023.pdf)
+
+
+[24年蒋四金刑法内部讲义.pdf](https://github.com/ahalawyer1/ahalawyer1/files/15446142/24.pdf)
+
+
+[24觉晓蒋四金刑法内部讲义（主客一体）.pdf](https://github.com/ahalawyer1/ahalawyer1/files/15446141/24.pdf)
+
+
+[23年徐光华刑法带写课方法论.pdf](https://github.com/ahalawyer1/ahalawyer1/files/15446140/23.pdf)
+
+
+[23年夏昊晗民法主观带写方法论.pdf](https://github.com/ahalawyer1/ahalawyer1/files/15446139/23.pdf)
+
+
+[23年商法主观带写方法论PPT.pdf](https://github.com/ahalawyer1/ahalawyer1/files/15446138/23.PPT.pdf)
+
+
+[22年民诉主观题带写课PPT.pdf](https://github.com/ahalawyer1/ahalawyer1/files/15446137/22.PPT.pdf)
+
+
+[【黑色】24年蒋四民法内部讲义.pdf](https://github.com/ahalawyer1/ahalawyer1/files/15446136/24.pdf)
+
+
+[【彩色】24年蒋四民法内部讲义.pdf](https://github.com/ahalawyer1/ahalawyer1/files/15446135/24.pdf)
+
+
+
+## 厚大法考
+
+### 方法论
+
+
+
+### 2024年学霸笔记-理论
 
 [2024年学霸笔记-理论法  专题88  中国共产党民主政权宪法性文件与审判制度.pdf](https://github.com/ahalawyer1/ahalawyer1/files/15367749/2024.-.88.pdf)
 
@@ -323,7 +469,7 @@
 [2024年学霸笔记-理论法  专题1 法的概念 .pdf](https://github.com/ahalawyer1/ahalawyer1/files/15367643/2024.-.1.pdf)
 
 
-## 2024年学霸笔记-民法
+###  2024年学霸笔记-民法
 
 [民法学霸笔记-专题62 继承法（一）.pdf](https://github.com/ahalawyer1/ahalawyer1/files/15367832/-.62.pdf)
 
@@ -568,7 +714,7 @@
 [2024年学霸笔记-民法.pdf](https://github.com/ahalawyer1/ahalawyer1/files/15367750/2024.-.pdf)
 
 
-## 2024年学霸笔记-民诉法
+###  2024年学霸笔记-民诉法
 
 [2024年学霸笔记-民诉.pdf](https://github.com/ahalawyer1/ahalawyer1/files/15367895/2024.-.pdf)
 
@@ -753,7 +899,7 @@
 [2024年学霸笔记-民诉 专题1  基本理论.pdf](https://github.com/ahalawyer1/ahalawyer1/files/15367833/2024.-.1.pdf)
 
 
-## 2024年学霸笔记-三国
+###  2024年学霸笔记-三国
 
 
 [2024年学霸笔记-三国  专题66  国际经济法新领域.pdf](https://github.com/ahalawyer1/ahalawyer1/files/15367970/2024.-.66.pdf)
@@ -970,7 +1116,7 @@
 
 
 
-## 2024年学霸笔记-商经
+###  2024年学霸笔记-商经
 
 [2024年学霸笔记商经知-专题46 森林和矿产资源法律制度（2）.pdf](https://github.com/ahalawyer1/ahalawyer1/files/15368080/2024.-.46.2.pdf)
 
@@ -1293,7 +1439,7 @@
 [2024年学霸笔记商经知-专题1  公司概述与公司法基本原则.pdf](https://github.com/ahalawyer1/ahalawyer1/files/15367972/2024.-.1.pdf)
 
 
-## 2024年学霸笔记-刑法
+###  2024年学霸笔记-刑法
 
 [2024年学霸笔记-刑法.pdf](https://github.com/ahalawyer1/ahalawyer1/files/15368119/2024.-.pdf)
 
@@ -1611,7 +1757,7 @@
 
 
 
-## 2024年学霸笔记-刑诉法
+###  2024年学霸笔记-刑诉法
 
 
 [2024年学霸笔记-刑诉.pdf](https://github.com/ahalawyer1/ahalawyer1/files/15368669/2024.-.pdf)
@@ -1939,7 +2085,7 @@
 
 
 
-## 2024年学霸笔记-行政法
+###  2024年学霸笔记-行政法
 
 
 
